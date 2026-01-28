@@ -1,7 +1,7 @@
 ---
 title: "Finite-Time Analysis of Stochastic Nonconvex Nonsmooth Optimization on the Riemannian Manifolds"
 collection: publications
-category: manuscripts
+category: conferences
 excerpt: 'TBD'
 date: 2025
 venue: 'NeurIPS 2025'
