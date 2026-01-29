@@ -14,6 +14,12 @@ Education
 * Ph.D in Industrial Engineering, Northeastern University, 2027 (expected)
 * B.S. in Electrical and Electronics Engineering, Bilkent University, 2017
 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Work experience
 ======
 * 2018-2021: Machine Learning Engineer
@@ -23,11 +29,7 @@ Work experience
   * Morphy Capital
   
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
 
 <!--
 Talks
