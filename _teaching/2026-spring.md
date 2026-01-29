@@ -1,7 +1,7 @@
 ---
 title: "TA, IE7275 Data Mining in Engineering"
 collection: teaching
-type: ""
+type: "Teaching Assistant"
 permalink: /teaching/2026-spring
 venue: "Northeastern University"
 date: 2026-01-01
