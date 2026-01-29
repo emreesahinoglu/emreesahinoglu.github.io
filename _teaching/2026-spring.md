@@ -1,5 +1,5 @@
 ---
-title: "TA, IE7275 Data Mining in Engineering"
+title: "IE7275 Data Mining in Engineering"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2026-spring
