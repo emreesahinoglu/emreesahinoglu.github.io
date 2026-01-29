@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-**Biography**
+Biography
+=======
+
 I am Emre Sahinoglu.
 
 
